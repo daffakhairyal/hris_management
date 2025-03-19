@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "DdDdD@@@14170077",
+      "database": "express_crud",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "postgres",
+      "password": "DdDdD@@@14170077",
+      "database": "express_crud_test",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "postgres",
+      "password": "DdDdD@@@14170077",
+      "database": "express_crud_prod",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    }
+  }
+  
